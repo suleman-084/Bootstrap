@@ -1,0 +1,31 @@
+.pricing-section {
+  margin-top: 10px;
+}
+
+/* Style the headers for Free, Pro, and Enterprise */
+.pricing-card-header {
+  background-color: #f0f0f0; /* Gray background color */
+  border-bottom: 1px solid #ccc; /* 1px bottom border */
+  padding: 10px; /* Add padding to the headers */
+  font-size: 1.8em; /* Increase font size */
+}
+
+/* Increase card height and font size */
+.pricing-card {
+  height: 100%; /* Increase card height */
+}
+
+.pricing-card .card-body {
+  font-size: 1.5em; /* Increase font size of card body */
+}
+
+/* Make prices bold and black */
+.pricing-price span {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.highlighted {
+  border-color: #007bff; /* Highlight color */
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5); /* Highlight shadow */
+}
