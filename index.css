@@ -26,6 +26,11 @@
 }
 
 .highlighted {
-  border-color: #007bff; /* Highlight color */
-  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5); /* Highlight shadow */
+  border-color: #ff001e; /* Highlight color */
+  box-shadow: 0 0 20px rgba(210, 1, 1, 0.5); /* Highlight shadow */
+}
+
+.value {
+  margin-left: 35rem;
+  font-size: 30px;
 }

@@ -27,5 +27,3 @@ function highlightCard(cardNumber) {
     cards[cardNumber - 1].classList.add("highlighted");
   });
 }
-
-// }
